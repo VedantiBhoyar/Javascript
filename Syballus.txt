@@ -1,0 +1,97 @@
+
+Week 1
+
+Day 1-2: Call Stack
+
+Problems: Debugging call stack issues, analyzing stack overflow scenarios.
+Questions: Explain the call stack, its role in JavaScript execution, and stack overflow.
+
+Day 3-4: Primitive Types
+
+Problems: Manipulating and validating primitive types.
+Questions: Differentiate between primitive and reference types in JavaScript.
+
+Day 5-6: Value Types and Reference Types
+
+Problems: Analyze and manipulate value/reference behavior in functions.
+Questions: Explain why arrays are reference types and strings are not.
+
+Day 7-8: Implicit, Explicit, Nominal, Structuring, and Duck Typing
+
+Problems: Implement explicit type checks; use duck typing for dynamic operations.
+Questions: Compare implicit and explicit typing in JavaScript.
+
+---------------------------------------------------------------------------------------------------------------------
+Week 2
+
+Day 9-10: == vs === vs typeof
+
+Problems: Implement type checks with both equality operators.
+Questions: Why is == considered "loose" equality?
+
+Day 11-12: Function Scope, Block Scope, and Lexical Scope
+
+Problems: Debug issues due to scope and closures.
+Questions: How does lexical scope differ from function scope?
+
+Day 13-14: Expression vs Statement
+
+Problems: Write examples of expressions and statements.
+Questions: Is if a statement or an expression?
+
+Day 15-16: IIFE, Modules, and Namespaces
+
+Problems: Create and debug IIFEs and module patterns.
+Questions: Why is IIFE useful in JavaScript?
+
+---------------------------------------------------------------------------------------------------------------------
+
+Week 3
+Day 17-18: Message Queue and Event Loop
+
+Problems: Analyze asynchronous task execution.
+Questions: Describe the event loop and how it works.
+
+Day 19-20: setTimeout, setInterval, and requestAnimationFrame
+
+Problems: Create timers and animations.
+Questions: Compare setTimeout and requestAnimationFrame.
+
+Day 21-22: JavaScript Engines
+
+Problems: Debug issues in different engines like V8 or SpiderMonkey.
+Questions: How do JavaScript engines optimize code execution?
+
+Day 23-24: Bitwise Operators, Typed Arrays, and Array Buffers
+
+Problems: Manipulate binary data using typed arrays.
+Questions: What are use cases for bitwise operators in JavaScript?
+
+DOM and Layout Trees
+Factories and Classes
+this, call, apply, and bind
+new, Constructor, instanceof, and Instances
+
+---------------------------------------------------------------------------------------------------------------------
+
+week 4
+
+Prototype Inheritance and Prototype Chain
+Object.create and Object.assign
+map, reduce, filter
+Pure Functions, Side Effects, State Mutation, and Event Propagation
+Closures
+High Order Functions
+Recursion
+Collections and Generators
+Promises
+async/await
+Inheritance, Polymorphism, and Code Reuse
+Design Patterns
+Partial Applications, Currying, Compose, and Pipe
+Clean Code
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+
